@@ -7,3 +7,11 @@
 ## GBComments.py
 
 里面放置了生成评论的逻辑
+
+使用方法
+
+```python
+from GBComments import produceComments
+produceComments()
+```
+

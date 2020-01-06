@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf8") as f:
 
 setup(
     name='GBComments',
-    version='0.0.11',
+    version='0.0.12',
     py_modules=['GBComments'],
     author="WRAllen",
     author_email="1072274105@qq.com",
