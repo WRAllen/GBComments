@@ -1,14 +1,12 @@
-import io
-
 from setuptools import setup
 from setuptools import find_packages
 
-with io.open("README.md", "r", encoding="utf8") as f:
+with open("README.md", "r", encoding="utf8") as f:
     readme = f.read()
 
 setup(
     name='GBComments',
-    version='0.0.10',
+    version='0.0.11',
     py_modules=['GBComments'],
     author="WRAllen",
     author_email="1072274105@qq.com",
