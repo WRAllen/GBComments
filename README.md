@@ -1,9 +1,9 @@
 # 这是一个用于自动生成好评差评的包
 
-## data.json
+## data文件夹里面的data.py
 
 里面放置了好评差评的语句
 
-## main.py
+## GBComments.py
 
 里面放置了生成评论的逻辑
